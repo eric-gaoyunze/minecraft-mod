@@ -1,8 +1,0 @@
-{
-  "variants": {
-    "age=0": {"model": "invoid:block/corn_plant_0"},
-    "age=1": {"model": "invoid:block/corn_plant_1"},
-    "age=2": {"model": "invoid:block/corn_plant_2"},
-    "age=3": {"model": "invoid:block/corn_plant_3"}
-  }
-}

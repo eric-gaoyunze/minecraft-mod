@@ -1,6 +1,0 @@
-{
-  "parent": "item/handheld",
-  "textures": {
-    "layer0": "invoid:item/pink_gem_sword"
-  }
-}

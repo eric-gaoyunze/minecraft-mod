@@ -1,9 +1,0 @@
-{
-  "type": "minecraft:smelting",
-  "ingredient": {
-    "item": "invoid:pink_gem_ore"
-  },
-  "result": "invoid:raw_pink_gem",
-  "experience": 0.9,
-  "cookingtime": 800
-}

@@ -1,6 +1,0 @@
-{
-  "parent": "item/handheld",
-  "textures": {
-    "layer0": "invoid:item/purple_gem_pickaxe"
-  }
-}
