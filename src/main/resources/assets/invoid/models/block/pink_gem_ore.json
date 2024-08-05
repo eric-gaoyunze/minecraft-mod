@@ -1,0 +1,6 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "invoid:block/pink_gem_ore"
+  }
+}

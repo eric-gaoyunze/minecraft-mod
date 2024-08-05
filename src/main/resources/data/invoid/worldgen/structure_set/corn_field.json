@@ -1,0 +1,14 @@
+{
+  "structures": [
+    {
+      "structure": "invoid:corn_field",
+      "weight": 1
+    }
+  ],
+  "placement": {
+    "salt": 1122334456,
+    "spacing": 10,
+    "separation": 4,
+    "type": "minecraft:random_spread"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "item.invoid.pink_gem": "Pink Gem",
+  "item.invoid.orange_gem": "Orange Gem",
+  "item.invoid.purple_gem": "Purple Gem",
+  "item.invoid.void_powder": "Void Powder",
+  "item.invoid.raw_pink_gem": "Raw Pink Gem",
+  "item.invoid.dowsing_rod": "Dowsing Rod",
+  "item.invoid.dowsing_rod_pro": "Dowsing Rod Pro",
+  "item.invoid.peanut": "Peanut",
+  "item.invoid.corn": "Corn",
+  "item.invoid.four_color_gem": "Four Color Gem",
+  "item.invoid.purple_gem_with_obsidian": "Purple Gem With Obsidian",
+
+  "item.invoid.pink_gem_sword": "Pink Gem Sword",
+  "item.invoid.pink_gem_pickaxe": "Pink Gem Pickaxe",
+  "item.invoid.pink_gem_axe": "Pink Gem Axe",
+  "item.invoid.orange_gem_sword": "Orange Gem Sword",
+  "item.invoid.orange_gem_pickaxe": "Orange Gem Pickaxe",
+  "item.invoid.orange_gem_axe": "Orange Gem Axe",
+  "item.invoid.purple_gem_sword": "Purple Gem Sword",
+  "item.invoid.purple_gem_pickaxe": "Purple Gem Pickaxe",
+  "item.invoid.purple_gem_axe": "Purple Gem Axe",
+  "item.invoid.four_color_gem_sword": "Four Color Gem Sword",
+  "item.invoid.four_color_gem_pickaxe": "Four Color Gem Pickaxe",
+  "item.invoid.four_color_gem_axe": "Four Color Gem Axe",
+
+  "block.invoid.pink_gem_ore": "Pink Gem Ore",
+  "block.invoid.apple_leaf": "Oka Leaf",
+  "block.invoid.peanut_plant": "Peanut Plant",
+  "block.invoid.corn_plant": "Corn Plant",
+  "block.invoid.apple_tree_wood": "Apple Tree Wood",
+  "block.invoid.gem_cutting_station": "Gem Cutting Station",
+
+  "itemGroup.invoidtab": "In Void",
+
+  "item.invoid.dowsing_rod.novalues": "No Valuables Found!"
+}

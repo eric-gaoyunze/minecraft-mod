@@ -1,0 +1,14 @@
+{
+  "structures": [
+    {
+      "structure": "invoid:under_sea_station",
+      "weight": 1
+    }
+  ],
+  "placement": {
+    "salt": 1122334556,
+    "spacing": 10,
+    "separation": 4,
+    "type": "minecraft:random_spread"
+  }
+}

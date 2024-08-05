@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:village",
+  "config": {
+    "start_pool": "invoid:forest_dungeon/start_pool",
+    "size": 2
+  },
+  "biomes": "#invoid:has_structure/forest_dungeon",
+  "adapt_noise": true,
+  "spawn_overrides": {
+    "creature": {
+      "bounding_box": "piece",
+      "spawns": [
+        {
+          "type": "minecraft:parrot",
+          "weight": 1,
+          "minCount": 1,
+          "maxCount": 4
+        }
+      ]
+    }
+  }
+}

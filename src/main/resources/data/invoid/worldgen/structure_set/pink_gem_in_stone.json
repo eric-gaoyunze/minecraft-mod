@@ -1,0 +1,14 @@
+{
+  "structures": [
+    {
+      "structure": "invoid:pink_gem_in_stone",
+      "weight": 1
+    }
+  ],
+  "placement": {
+    "salt": 1122334455,
+    "spacing": 10,
+    "separation": 4,
+    "type": "minecraft:random_spread"
+  }
+}

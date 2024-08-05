@@ -1,0 +1,154 @@
+{
+	"format_version": "1.8.0",
+	"animations": {
+		"animation.lava_behemoth.walk": {
+			"animation_length": 1,
+			"bones": {
+				"legr": {
+					"rotation": {
+						"0.0": {
+							"vector": [0, 0, 0]
+						},
+						"0.25": {
+							"vector": [5, 0, 0]
+						},
+						"0.5": {
+							"vector": [0, 0, 0]
+						},
+						"0.75": {
+							"vector": [-17.5, 0, 0]
+						},
+						"1.0": {
+							"vector": [0, 0, 0]
+						}
+					}
+				},
+				"legl": {
+					"rotation": {
+						"0.0": {
+							"vector": [2.5, 0, 0]
+						},
+						"0.25": {
+							"vector": [-17.5, 0, 0]
+						},
+						"0.5": {
+							"vector": [0, 0, 0]
+						},
+						"0.75": {
+							"vector": [5, 0, 0]
+						},
+						"1.0": {
+							"vector": [0, 0, 0]
+						}
+					}
+				},
+				"body": {
+					"rotation": {
+						"0.0": {
+							"vector": [0, 0, 0]
+						},
+						"0.25": {
+							"vector": [0, 0, -2.5]
+						},
+						"0.5": {
+							"vector": [0, 0, 0]
+						},
+						"0.75": {
+							"vector": [0, 0, 2.5]
+						},
+						"1.0": {
+							"vector": [0, 0, 0]
+						}
+					}
+				}
+			}
+		},
+		"animation.lava_bemoth.idea": {
+			"animation_length": 0.5,
+			"bones": {
+				"body": {
+					"position": {
+						"vector": [0, -9, 0]
+					}
+				},
+				"v": {
+					"scale": {
+						"0.0": {
+							"vector": [1, 1, 1]
+						},
+						"0.25": {
+							"vector": [1, 1.6, 1]
+						},
+						"0.5": {
+							"vector": [1, 1, 1]
+						}
+					}
+				},
+				"armr": {
+					"position": {
+						"0.0": {
+							"vector": [0, 0, 10]
+						},
+						"0.25": {
+							"vector": [0, 0, 11]
+						},
+						"0.5": {
+							"vector": [0, 0, 5]
+						}
+					}
+				},
+				"arml": {
+					"position": {
+						"0.0": {
+							"vector": [0, 0, 11]
+						},
+						"0.25": {
+							"vector": [0, 0, 6]
+						},
+						"0.5": {
+							"vector": [0, 0, 10]
+						}
+					}
+				}
+			}
+		},
+		"animation.lava_behemoth.fight1": {
+			"animation_length": 0.75,
+			"bones": {
+				"armr": {
+					"scale": {
+						"0.0": {
+							"vector": [1, 1, 1]
+						},
+						"0.25": {
+							"vector": [1, 1, 0.4]
+						},
+						"0.5": {
+							"vector": [1, 1, 1.1]
+						},
+						"0.75": {
+							"vector": [1, 1, 1]
+						}
+					}
+				},
+				"arml": {
+					"scale": {
+						"0.0": {
+							"vector": [1, 1, 1]
+						},
+						"0.25": {
+							"vector": [1, 1, 0.4]
+						},
+						"0.5": {
+							"vector": [1, 1, 1.1]
+						},
+						"0.75": {
+							"vector": [1, 1, 1]
+						}
+					}
+				}
+			}
+		}
+	},
+	"geckolib_format_version": 2
+}
